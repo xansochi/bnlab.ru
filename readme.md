@@ -1,5 +1,5 @@
 #  BNLAB.RU
-(https://bnlab.ru)
+https://bnlab.ru
 ## Feature : 
 - Mobile adaptive 
 - Some validation.
