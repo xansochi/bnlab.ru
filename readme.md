@@ -22,7 +22,7 @@ Access to source code at request.
 
 ## Screenshots
 
-<img src="1bnlab_main.png" width=45% /> <img src="1bnlab_main.png" width=45%  />
+<img src="1bnlab_main.png" width=35% /> <img src="2bnlab_menu.png" width=35%  /> <img src="3bnlab_start.png" width=35%  /> <img src="4bnlab_test.png" width=35%  /> <img src="5bnlab_result.png" width=35%  />
 
 
 ## Authors
