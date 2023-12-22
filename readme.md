@@ -5,16 +5,20 @@ https://bnlab.ru
 Russian adaptation of Braverman Nature Assessment (BNA).
 This is a personality test that categorizes your brain function through a series of behavioral questions, which provides deeper knowledge and shows results of not only your strengths but also your weaknesses.
 
-## Feature : 
-- Mobile adaptive 
-- Some validation.
-- Blocked send button (agreement).
-- Ready for attach file.
-- Token modal window with copy to clipboard feature(only web version)
+A small personal project for my portfolio and for my own pleasure.
+
+The application happily lives in the public domain and pleases curious users.
+
+Access to source code at request.
+
+## Feature :
+- PWA
+- Mobile first adaptive 
+- Client side data only.
 
 ## Tech Stack
 
-**Client:** TypeScript, React, Vite
+**Client:** JavaScript, React, Redux+Toolkit, Tailwind, React-Chart
 
 ## Screenshots
 
