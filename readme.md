@@ -1,5 +1,8 @@
 #  BNLAB.RU
 https://bnlab.ru
+Russian adaptation of Braverman Nature Assessment (BNA).
+This is a personality test that categorizes your brain function through a series of behavioral questions, which provides deeper knowledge and shows results of not only your strengths but also your weaknesses.
+
 ## Feature : 
 - Mobile adaptive 
 - Some validation.
